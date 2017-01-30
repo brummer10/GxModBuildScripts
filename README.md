@@ -23,3 +23,5 @@ to build the following plugins for the MOD
 ![GxVintageFuzzMaster](https://raw.githubusercontent.com/brummer10/GxVintageFuzzMaster.lv2/master/MOD/modgui/screenshot-gxvintagefuzzmaster.png)
 ###### GxGuvnor.lv2
 ![GxGuvnor](https://raw.githubusercontent.com/brummer10/GxGuvnor.lv2/master/MOD/modgui/screenshot-gxguvnor.png)
+###### GxToneMachine.lv2
+![GxToneMachine](https://raw.githubusercontent.com/brummer10/GxToneMachine.lv2/master/MOD/modgui/screenshot-gxtonemachine.png)
