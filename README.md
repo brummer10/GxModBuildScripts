@@ -25,3 +25,5 @@ to build the following plugins for the MOD
 ![GxGuvnor](https://raw.githubusercontent.com/brummer10/GxGuvnor.lv2/master/MOD/modgui/screenshot-gxguvnor.png)
 ###### GxToneMachine.lv2
 ![GxToneMachine](https://raw.githubusercontent.com/brummer10/GxToneMachine.lv2/master/MOD/modgui/screenshot-gxtonemachine.png)
+###### GxHotBox.lv2
+![GxHotBox](https://raw.githubusercontent.com/brummer10/GxHotBox.lv2/master/MOD/modgui/screenshot-gxhotbox.png)
