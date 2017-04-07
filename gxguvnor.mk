@@ -4,7 +4,7 @@
 #
 ######################################
 
-GXGUVNOR_VERSION = 8f19ed0be1e5c2ea7bd1532dd5d8a0d21c815f72
+GXGUVNOR_VERSION = 26c94e97874de098d1b306aed9e049e35744e443
 GXGUVNOR_SITE = $(call github,brummer10,GxGuvnor.lv2,$(GXGUVNOR_VERSION))
 GXGUVNOR_BUNDLES = gx_guvnor.lv2
 

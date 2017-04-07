@@ -4,7 +4,7 @@
 #
 ######################################
 
-GXSLOWGEAR_VERSION = 6fb75b807d72a0bcd369ff5b8d98f0c6c60b9068
+GXSLOWGEAR_VERSION = ba7c6896b8c30cc43f3d16e619e805eeb2f5f12c
 GXSLOWGEAR_SITE = $(call github,brummer10,GxSlowGear.lv2,$(GXSLOWGEAR_VERSION))
 GXSLOWGEAR_BUNDLES = gx_slowgear.lv2
 
