@@ -26,4 +26,6 @@ to build the following plugins for the MOD
 ###### GxHotBox.lv2
 ![GxHotBox](https://raw.githubusercontent.com/brummer10/GxHotBox.lv2/master/MOD/modgui/screenshot-gxhotbox.png)
 ###### GxQuack.lv2
-![GxHotBox](https://raw.githubusercontent.com/brummer10/GxQuack.lv2/master/MOD/modgui/screenshot-gxquack.png)
+![GxQuack](https://raw.githubusercontent.com/brummer10/GxQuack.lv2/master/MOD/modgui/screenshot-gxquack.png)
+###### GxBottleRocket.lv2
+![GxBottleRocket](https://raw.githubusercontent.com/brummer10/GxBottleRocket.lv2/master/MOD/modgui/screenshot-gxbottlerocket.png)
