@@ -29,3 +29,5 @@ to build the following plugins for the MOD
 ![GxQuack](https://raw.githubusercontent.com/brummer10/GxQuack.lv2/master/MOD/modgui/screenshot-gxquack.png)
 ###### GxBottleRocket.lv2
 ![GxBottleRocket](https://raw.githubusercontent.com/brummer10/GxBottleRocket.lv2/master/MOD/modgui/screenshot-gxbottlerocket.png)
+###### GxVmk2.lv2
+![GxVmk2](https://raw.githubusercontent.com/brummer10/GxVmk2.lv2/master/MOD/modgui/screenshot-gxvmk2.png)
