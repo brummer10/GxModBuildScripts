@@ -4,7 +4,7 @@
 #
 ######################################
 
-GXQUACK_VERSION = cf0b44e9fa5b353a1793cb7a7048a4bb76033c21
+GXQUACK_VERSION = 84fef2efc2bed31d3e9a8ed3dfb4e8b1602e2c94
 GXQUACK_SITE = $(call github,brummer10,GxQuack.lv2,$(GXQUACK_VERSION))
 GXQUACK_BUNDLES = gx_quack.lv2
 
