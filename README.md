@@ -35,3 +35,5 @@ to build the following plugins for the MOD
 ![GxUVVox720k](https://raw.githubusercontent.com/brummer10/GxUVox720k.lv2/master/MOD/modgui/screenshot-gxuvox.png)
 ###### GxVBassPreAmp.lv2
 ![GxVBassPreAmp](https://raw.githubusercontent.com/brummer10/GxVBassPreAmp.lv2/master/MOD/modgui/screenshot-gxvbasspreamp.png)
+###### GxToneMachine.lv2
+![GxToneMachine](https://raw.githubusercontent.com/brummer10/GxToneMachine.lv2/master/MOD/modgui/screenshot-gxtonemachine.png)
