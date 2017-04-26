@@ -21,6 +21,8 @@ to build the following plugins for the MOD
 ![GxSaturator](https://raw.githubusercontent.com/brummer10/GxSaturator.lv2/master/MOD/modgui/screenshot-gxsaturator.png)
 ###### GxSD1.lv2
 ![GxSD1](https://raw.githubusercontent.com/brummer10/GxSD1.lv2/master/MOD/modgui/screenshot-gxsd1.png)
+###### GxSD2Lead.lv2
+![GxSD2Lead](https://raw.githubusercontent.com/brummer10/GxSD2Lead.lv2/master/MOD/modgui/screenshot-gxsd2lead.png)
 ###### GxVintageFuzzMaster.lv2
 ![GxVintageFuzzMaster](https://raw.githubusercontent.com/brummer10/GxVintageFuzzMaster.lv2/master/MOD/modgui/screenshot-gxvintagefuzzmaster.png)
 ###### GxGuvnor.lv2
