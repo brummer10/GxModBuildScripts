@@ -44,6 +44,6 @@ to build the following plugins for the MOD
 ###### GxToneMachine.lv2
 ![GxToneMachine](https://raw.githubusercontent.com/brummer10/GxToneMachine.lv2/master/MOD/modgui/screenshot-gxtonemachine.png)
 ###### GxHeathkit.lv2
-![GxHeathkit](https://raw.githubusercontent.com/brummer10/GxHeathkit.lv2/master/MOD/modgui/screenshot-gxtonemachine.png)
+![GxHeathkit](https://raw.githubusercontent.com/brummer10/GxHeathkit.lv2/master/MOD/modgui/screenshot-gxheathkit.png)
 ###### GxKnightFuzz.lv2
-![GxKnightFuzz](https://raw.githubusercontent.com/brummer10/GxKnightFuzz.lv2/master/MOD/modgui/screenshot-gxtonemachine.png)
+![GxKnightFuzz](https://raw.githubusercontent.com/brummer10/GxKnightFuzz.lv2/master/MOD/modgui/screenshot-gxknightfuzz.png)
