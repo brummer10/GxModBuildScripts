@@ -4,7 +4,7 @@
 #
 ######################################
 
-GXSFP_VERSION = 8ef00b8d7b77d5123c09af8a685a41447a87c267
+GXSFP_VERSION = 006064e47021055d91f57312b922e7f25052f2ea
 GXSFP_SITE = $(call github,brummer10,GxSuperFuzz.lv2,$(GXSFP_VERSION))
 GXSFP_BUNDLES = gx_sfp.lv2
 
